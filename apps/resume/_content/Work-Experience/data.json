@@ -20,7 +20,21 @@
           "startDate": "2023.02",
           "endDate": "2023.03",
           "which": ["로그인 방식 변경", "유지보수"],
-          "techStack": ["JavaScript", "React", "ReactNative"]
+          "techStack": ["JavaScript", "React", ""]
+        },
+        {
+          "title": {
+            "text": "메이즈 점주 웹 유지보수",
+            "githubLink": null,
+            "otherLink": null,
+            "androidLink": null,
+            "iosLink": null
+          },
+          "description": "당사 서비스 점주를 위한 주문관리 웹 유지보수",
+          "startDate": "2023.02",
+          "endDate": "2023.03",
+          "which": ["시간뭐 했는데"],
+          "techStack": ["JavaScript", "React", ""]
         },
         {
           "title": {
@@ -38,20 +52,35 @@
         },
         {
           "title": {
-            "text": "Foo Eat",
+            "text": "메이즈 점주 앱 개발",
             "githubLink": null,
             "otherLink": null,
             "androidLink": null,
             "iosLink": null
           },
-          "description": "Leading FE developers",
-          "startDate": "2021.03",
-          "endDate": "2021.06",
+          "description": "점주 앱 설명",
+          "startDate": "2023.05",
+          "endDate": "2023.06",
           "which": [
             "develop comet-land",
             "lorem lorem",
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
           ],
+
+          "techStack": null
+        },
+        {
+          "title": {
+            "text": "쉽게빼자 회원용 앱 개발",
+            "githubLink": null,
+            "otherLink": null,
+            "androidLink": "https://play.google.com/store/apps/details?id=com.nyx.easydietapp",
+            "iosLink": "https://apps.apple.com/vn/app/%EC%89%BD%EA%B2%8C%EB%B9%BC%EC%9E%90-%ED%9A%8C%EC%9B%90%EC%9A%A9/id6460689996"
+          },
+          "description": "식단, 월경, 배변, 수면 데이터를 바탕으로 트레이너에게 운동관리를 받는 애플리케이션",
+          "startDate": "2023.07",
+          "endDate": "2023.08",
+          "which": ["월경, 수면, 배변, 메인페이지 UI 구축", "프로젝트 폴더구조 구축"],
 
           "techStack": null
         }
