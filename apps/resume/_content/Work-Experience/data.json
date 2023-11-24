@@ -20,21 +20,21 @@
           "startDate": "2023.02",
           "endDate": "2023.03",
           "which": ["로그인 방식 변경", "유지보수"],
-          "techStack": ["JavaScript", "React", ""]
+          "techStack": ["JavaScript", "React"]
         },
         {
           "title": {
-            "text": "메이즈 점주 웹 유지보수",
+            "text": "메이즈 점주 웹",
             "githubLink": null,
             "otherLink": null,
             "androidLink": null,
             "iosLink": null
           },
-          "description": "당사 서비스 점주를 위한 주문관리 웹 유지보수",
+          "description": "당사 서비스 점주를 위한 주문관리 웹 ",
           "startDate": "2023.02",
           "endDate": "2023.03",
-          "which": ["시간뭐 했는데"],
-          "techStack": ["JavaScript", "React", ""]
+          "which": ["socketio -> webSocket으로 변경", "유지보수"],
+          "techStack": ["JavaScript", "React", "mantine"]
         },
         {
           "title": {
@@ -47,7 +47,11 @@
           "description": "메이즈 유저 앱 설명",
           "startDate": "2023.03",
           "endDate": "2023.05",
-          "which": ["메인 커스텀 드로워 구현", "로그인 화면 및 온보딩 화면 UI 구축"],
+          "which": [
+            "메인 커스텀 드로워 구현",
+            "로그인 화면 및 온보딩 화면 UI 구축",
+            "react-native-config를 이용한 개발 및 운영환경 분리"
+          ],
           "techStack": ["JavaScript", "ReactNative", "MMKV", "valtio"]
         },
         {
@@ -58,16 +62,12 @@
             "androidLink": null,
             "iosLink": null
           },
-          "description": "점주 앱 설명",
+          "description": "메뉴등록, 매출, ai정보를 한눈에 볼수 있는 당사 서비스 점주를 위한 애플리케이션",
           "startDate": "2023.05",
           "endDate": "2023.06",
-          "which": [
-            "develop comet-land",
-            "lorem lorem",
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
-          ],
+          "which": ["메뉴 CRUD 구축", "주문관리 UI 구축"],
 
-          "techStack": null
+          "techStack": ["JavaScript", "ReactNative", "MMKV", "valtio"]
         },
         {
           "title": {
@@ -83,51 +83,6 @@
           "which": ["월경, 수면, 배변, 메인페이지 UI 구축", "프로젝트 폴더구조 구축"],
 
           "techStack": null
-        }
-      ]
-    },
-    {
-      "name": "Bar company",
-      "position": "Web Developer",
-      "startDate": "2020.03",
-      "endDate": "2021.03",
-      "description": "Bar company is very awesome",
-      "projects": [
-        {
-          "title": {
-            "text": "Bar Pay",
-            "githubLink": null,
-            "otherLink": null,
-            "androidLink": null,
-            "iosLink": null
-          },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.08",
-          "endDate": "2021.03",
-          "which": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "Cum iusto quasi alias provident quos perspiciatis modi dolores libero tenetur nam?"
-          ],
-          "techStack": ["TypeScript", "React", "Recoil"]
-        },
-        {
-          "title": {
-            "text": "Bar Play",
-            "githubLink": null,
-            "otherLink": null,
-            "androidLink": null,
-            "iosLink": null
-          },
-          "role": "FE Dev Leader",
-          "description": "Leading FE developers",
-          "startDate": "2020.03",
-          "endDate": "2020.08",
-          "which": [
-            "perspiciatis modi dolores libero tenetur nam.",
-            "Lorem ipsum dolor sit amet consectetur adipisicing."
-          ],
-          "techStack": ["TypeScript", "React", "Recoil"]
         }
       ]
     }
